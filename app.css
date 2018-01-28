@@ -60,7 +60,7 @@ li.pane {
   margin-bottom: 2em;
   text-align: center;
   border: 1px solid #ddd;
-  box-shadow: 2px 2px #e8e8e8;  
+  box-shadow: 4px 4px #ddd;
 }
 
 .entry-meta {
