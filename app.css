@@ -3,9 +3,9 @@ html {
 }
 
 body {
-  font-family: Georgia, serif;
+  font-family: 'Times New Roman', sans-serif;
   font-size: 36px;
-  color: #252528;
+  color: #333;
   background-color: white;
   margin: 0;
   height: 100%;
@@ -39,7 +39,7 @@ a:link {
 }
 
 a:visited {
-  color: #252528;
+  color: #333;
 }
 
 
@@ -64,7 +64,6 @@ li.pane {
 }
 
 .entry-meta {
-  color: hsl(341, 10%, 20%);
   font-weight: bold;
 }
 
